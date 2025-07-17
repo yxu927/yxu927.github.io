@@ -1,13 +1,13 @@
 baseURL = "yxu927.github.io"
 languageCode = "zh-cn"
-title = "yxu927的个人站点"
+title = "Yuan Xu"
 theme = "notrack"
 hasCJKLanguage = true
 pagination.pagerSize = 4  # Posts per page, e.g. in the blog
 
 [params]
 author = "yxu927"
-siteHeading = "yxu927的个人站点" # defaults to author
+siteHeading = "Yuan Xu" # defaults to author
 favicon = "hugo_grotius.png" # The small icon shown in browser tabs
 showTaxonomyLinks = false  # Show e.g. a "Category" button at top of blog page
 
