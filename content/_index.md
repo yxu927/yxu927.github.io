@@ -10,7 +10,8 @@ menu:
 
 {{<image float="right" width="11em" frame="true" caption="Portrait of me by Michiel Jansz. van Mierevelt" src="img/coco.jpg" >}}
 
-Hello, I'm Yuan Xu and this is my personal page. For a more comprehensive list of my experience,
+Hello, I'm Yuan Xu and this is for my cat Coco. 
+For a more comprehensive list of my experience,
 see the [Resume]({{< ref "resume.md" >}}) tab.
 
 
